@@ -4,7 +4,7 @@ La idea de nuestro proyecto es lograr una base de datos de un taller automotriz.
 
 1. El primer paso es hacer una base de datos dónde se pueda subir los datos y sugerencias de los clientes
 2. Guardar los datos en una nube 
-3. Hacer un programa para mostrar las sugerencias de las personas
+3. Hacer un programa para mostrar las compras de los clientes y aque horas se hizo
 
 Los servicios a ofrecer del taller son:
 - Lavado de carros
