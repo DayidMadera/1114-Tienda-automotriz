@@ -1,4 +1,4 @@
-# PRD DE TINEDA AUTOMOTRIZ
+# PRD DE TIENDA AUTOMOTRIZ
 
 La idea de nuestro proyecto es lograr una base de datos de un taller automotriz. 
 
