@@ -1,5 +1,6 @@
-# PRD DE TIENDA AUTOMOTRIZ
+### PRD DE TIENDA AUTOMOTRIZ
 
+#problema
 La idea de nuestro proyecto es lograr una base de datos de un taller automotriz. 
 
 1. El primer paso es hacer una base de datos dónde se pueda subir los datos y sugerencias de los clientes
@@ -12,8 +13,9 @@ Los servicios a ofrecer del taller son:
 - Reparaciones
 - Suministrar aire comprimido a las ruedas del vehiculo
 - Modificaciones
+#solucion 
 
-
+#objetivos de el estudiante
 Integrantes del proyecto:
 Dayid Esteban Madera Paez
 Juan David Martínez Perdomo 
