@@ -33,7 +33,7 @@ Se puede registrar 10 ventas sin errores
 Al registrar un pago, la deuda disminuye
 Si cierro el programa y lo reabro, los datos siguen ahí
 El cálculo de ganancias del día es correcto
-Ver si se efectuo el pago o no.
+Ver si se efectuó el pago o no.
 
 ## Limitaciones
 NO tiene acceso desde múltiples computadoras (solo una máquina)
