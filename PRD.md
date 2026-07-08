@@ -26,12 +26,14 @@ El tecnico Juancho en un día tuvo al rededor de 10 clientes, el tuvo que regist
 ~ Cantidad de pago: "numero"
 ~ Dirección: "Texto/número"
 ~ Tipo de pago: "Opciones"
+~ Comprobante de pago: "True/False"
 
 ## Criterios de éxito
 Se puede registrar 10 ventas sin errores
 Al registrar un pago, la deuda disminuye
 Si cierro el programa y lo reabro, los datos siguen ahí
 El cálculo de ganancias del día es correcto
+Ver si se efectuo el pago o no.
 
 ## Limitaciones
 NO tiene acceso desde múltiples computadoras (solo una máquina)
