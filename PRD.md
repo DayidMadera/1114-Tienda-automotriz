@@ -4,7 +4,7 @@
 La automotriz necesita guardar los datos de los clientes: Fecha de entrega, modelo, datos del cliente, valor del servicio/producto. Facilitando la administración y el manejo de datos.
 
 ## Requisitos funcionales
-- Registrar los datos de los clientez: Fecha de entrega, modelo, valor del servicio/producto.
+- Registrar los datos de los clientes: Fecha de entrega, modelo, valor del servicio/producto.
 - Registrar si el cliente realizó el pago completo o mediante abono
 - Guardar los datos que se registraron
 - Calcular las ganancias del dia ventas al contado y pagos parciales
