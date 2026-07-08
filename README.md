@@ -7,6 +7,6 @@ La automotriz necesita guardar los datos de los clientes: Fecha de entrega, mode
 Se utilizara el repositorio para tener una lista sobre las ventas y movientos de la automotriz haciendo que sea mas eficiente la visualizacion de datos
 # CONTIBUYENTES
 
-- Dayid Esteban Madera Paez(rama-linea)
+- Dayid Esteban Madera Paez(rama-0)
 - Juan Martinez Perdomo(rama-1)
 - David Esteban Rivera Torres(rama-2)
